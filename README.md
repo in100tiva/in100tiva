@@ -92,11 +92,6 @@ const developer = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=in100tiva&theme=github_dark" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=in100tiva&theme=github_dark" height="160em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=in100tiva&theme=github_dark" height="160em"/>
-</div>
-
 ---
 
 ### Featured Projects
