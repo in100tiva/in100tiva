@@ -38,8 +38,8 @@ const developer = {
     name: "Luan Oliveira",
     role: "Full Stack Developer",
     brand: "@In100tiva",
-    stack: ["React", "Next.js", "React Native", "TypeScript", "Node.js"],
-    databases: ["Supabase", "PostgreSQL", "Convex", "Firebase"],
+    stack: ["React", "Next.js", "React Native", "TypeScript", "Node.js", "Bun", "Electron.js", "Elysia.js"],
+    databases: ["Supabase", "PostgreSQL", "MySQL", "SQLite", "Neon", "Convex", "Firebase"],
     currentProject: "EventPulse - Real-time event engagement platform",
     passion: "Turning ideas into scalable solutions"
 };
@@ -51,16 +51,31 @@ const developer = {
 
 <div align="center">
 
+#### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-000?style=flat-square&logo=elysia&logoColor=white)
+
+#### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+
+#### Tools & Platforms
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -76,7 +91,7 @@ const developer = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=in100tiva&bg_color=0d1117&color=58A6FF&line=58A6FF&point=fff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=in100tiva&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="350"/>
 </div>
 
 ---
