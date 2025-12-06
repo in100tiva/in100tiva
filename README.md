@@ -1,124 +1,198 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luan%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=51&descSize=20"/>
+<!-- Solo Leveling Style Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:7c3aed&height=200&section=header&text=SOLO%20LEVELING&fontSize=60&fontColor=a855f7&animation=fadeIn&fontAlignY=30&desc=D%20E%20V%20E%20L%20O%20P%20E%20R%20%20%20P%20R%20O%20F%20I%20L%20E&descAlignY=55&descSize=14&descColor=e9d5ff"/>
 
-<!-- Snake Animation -->
+<!-- Snake Animation - XP Being Collected -->
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in100tiva/in100tiva/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/in100tiva/in100tiva/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/in100tiva/in100tiva/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/in100tiva/in100tiva/output/github-contribution-grid-snake.svg">
 </picture>
+<br/>
+
+<!-- Player Title -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%9A%94%EF%B8%8F+HUNTER+RANK%3A+S+%E2%9A%94%EF%B8%8F;%F0%9F%8E%AE+FULL+STACK+DEVELOPER+%F0%9F%8E%AE;%F0%9F%91%91+%40In100tiva+Creator+%F0%9F%91%91)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+digital+experiences;One+commit+at+a+time)](https://git.io/typing-svg)
+<!-- Social Links as Game Buttons -->
+<a href="https://instagram.com/in100tiva"><img src="https://img.shields.io/badge/-%F0%9F%8E%AE_INSTAGRAM-7c3aed?style=for-the-badge&logoColor=white"/></a>
+<a href="https://linkedin.com/in/in100tiva"><img src="https://img.shields.io/badge/-%F0%9F%94%97_LINKEDIN-7c3aed?style=for-the-badge&logoColor=white"/></a>
+<a href="https://youtube.com/@in100tiva"><img src="https://img.shields.io/badge/-%F0%9F%93%BA_YOUTUBE-7c3aed?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:contato@in100tiva.com"><img src="https://img.shields.io/badge/-%F0%9F%93%A7_EMAIL-7c3aed?style=for-the-badge&logoColor=white"/></a>
 
-<!-- Social Links -->
-<br/>
+<br/><br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/in100tiva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/in100tiva)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@in100tiva)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@in100tiva.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=in100tiva&color=58A6FF&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=in100tiva&color=7c3aed&style=for-the-badge&label=PROFILE+VISITORS)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%"/>
 
-### About
+<div align="center">
 
-```typescript
-const developer = {
+## ⚔️ PLAYER STATS ⚔️
+
+</div>
+
+```js
+// ═══════════════════════════════════════════════════════════════
+//                    🎮 DEVELOPER PROFILE 🎮
+// ═══════════════════════════════════════════════════════════════
+
+const Player = {
     name: "Luan Oliveira",
-    role: "Full Stack Developer",
-    brand: "@In100tiva",
-    stack: ["React", "Next.js", "React Native", "TypeScript", "Node.js", "Bun", "Electron.js", "Elysia.js"],
-    databases: ["Supabase", "PostgreSQL", "MySQL", "SQLite", "Neon", "Convex", "Firebase"],
-    currentProject: "EventPulse - Real-time event engagement platform",
-    passion: "Turning ideas into scalable solutions"
+    class: "Full Stack Developer",
+    guild: "@In100tiva",
+    rank: "S",
+    level: 75,
+    title: "The Code Hunter",
+
+    // ⚡ MAIN STATS
+    stats: {
+        HP: "████████████████████ 5000/5000",
+        MP: "████████████████░░░░ 4500/5000",
+        XP: "██████████████░░░░░░ 2033/3000"
+    },
+
+    // 🎯 ATTRIBUTES
+    attributes: {
+        frontend:  "███████████████████░ 95%",
+        backend:   "██████████████████░░ 90%",
+        mobile:    "█████████████████░░░ 85%",
+        devops:    "██████████████░░░░░░ 70%",
+        design:    "████████████░░░░░░░░ 60%"
+    },
+
+    // 📍 CURRENT QUEST
+    currentQuest: "EventPulse - Real-time Event Engagement Platform"
 };
 ```
 
----
-
-### Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%"/>
 
 <div align="center">
 
-#### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-000?style=flat-square&logo=elysia&logoColor=white)
-
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
-
-#### Tools & Platforms
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=in100tiva&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=in100tiva&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</div>
+## 🧪 MASTERED SKILLS 🧪
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=in100tiva&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="350"/>
-</div>
+### ⚡ OFFENSIVE SKILLS (Languages & Frameworks)
 
----
-
-### Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **EventPulse** | Real-time event engagement platform | React, Convex, Clerk |
-| **Fitness App** | Workout module with drag-and-drop | React Native, Redux, Supabase |
-| **Medical RAG** | AI system for medical literature | Python, Upstash, LangChain |
-
-</div>
-
----
-
-<div align="center">
-
-*"Clean code is not written by following rules. It is written by developers who care."*
+![TypeScript](https://img.shields.io/badge/TypeScript-LVL_95-7c3aed?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d0d)
+![React](https://img.shields.io/badge/React-LVL_95-7c3aed?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d)
+![Next.js](https://img.shields.io/badge/Next.js-LVL_90-7c3aed?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d0d0d)
+![Node.js](https://img.shields.io/badge/Node.js-LVL_88-7c3aed?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d0d0d)
+![React Native](https://img.shields.io/badge/React_Native-LVL_85-7c3aed?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d)
+![Bun](https://img.shields.io/badge/Bun-LVL_80-7c3aed?style=for-the-badge&logo=bun&logoColor=white&labelColor=0d0d0d)
+![Electron](https://img.shields.io/badge/Electron-LVL_75-a855f7?style=for-the-badge&logo=electron&logoColor=white&labelColor=0d0d0d)
+![Elysia](https://img.shields.io/badge/Elysia-LVL_70-a855f7?style=for-the-badge&logo=elysia&logoColor=white&labelColor=0d0d0d)
 
 <br/>
 
-**@In100tiva**
+### 🛡️ DEFENSIVE SKILLS (Databases)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-LVL_90-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d0d0d)
+![Supabase](https://img.shields.io/badge/Supabase-LVL_92-7c3aed?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d0d0d)
+![MySQL](https://img.shields.io/badge/MySQL-LVL_85-7c3aed?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0d0d)
+![Firebase](https://img.shields.io/badge/Firebase-LVL_88-7c3aed?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0d0d0d)
+![Neon](https://img.shields.io/badge/Neon-LVL_80-a855f7?style=for-the-badge&logo=neon&logoColor=white&labelColor=0d0d0d)
+![SQLite](https://img.shields.io/badge/SQLite-LVL_82-a855f7?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d0d0d)
+![Convex](https://img.shields.io/badge/Convex-LVL_78-a855f7?style=for-the-badge&logo=convex&logoColor=white&labelColor=0d0d0d)
+
+<br/>
+
+### 🎒 INVENTORY (Tools & Platforms)
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind-EQUIPPED-c084fc?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d0d0d)
+![Vercel](https://img.shields.io/badge/Vercel-EQUIPPED-c084fc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)
+![Git](https://img.shields.io/badge/Git-EQUIPPED-c084fc?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)
+![Docker](https://img.shields.io/badge/Docker-EQUIPPED-c084fc?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d)
+![Figma](https://img.shields.io/badge/Figma-EQUIPPED-c084fc?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d0d0d)
 
 </div>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%"/>
+
+<div align="center">
+
+## 📊 GITHUB XP STATS 📊
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=in100tiva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff&ring_color=7c3aed&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=in100tiva&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a855f7&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=a855f7&dates=c084fc"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=in100tiva&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e9d5ff" width="320"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%"/>
+
+<div align="center">
+
+## 🏆 COMPLETED QUESTS 🏆
+
+<br/>
+
+| 🎯 Quest | 📜 Description | ⚔️ Skills Used | 🏅 Reward |
+|:--------:|:---------------|:---------------|:---------:|
+| **EventPulse** | Real-time event engagement platform with live voting | React, Convex, Clerk | S-Rank |
+| **Fitness App** | Workout module with drag-and-drop functionality | React Native, Redux, Supabase | A-Rank |
+| **Medical RAG** | AI system for medical literature analysis | Python, Upstash, LangChain | A-Rank |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%"/>
+
+<div align="center">
+
+## 📺 GUILD ACTIVITIES 📺
+
+### 🎬 @In100tiva - Tech Content Creator
+
+<br/>
+
+| 📅 Date | 🎯 Topic | 🔗 Portal |
+|:-------:|:---------|:---------:|
+| NEW! | OpenRouter: Gateway to Multiple AIs | [Enter Dungeon](https://instagram.com/in100tiva) |
+| NEW! | Supabase: Complete Backend in Minutes | [Enter Dungeon](https://instagram.com/in100tiva) |
+| NEW! | Clerk: Simplified Authentication | [Enter Dungeon](https://instagram.com/in100tiva) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%"/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "I alone level up. Every commit makes me stronger."            ║
+║                                                                  ║
+║                              - Sung Jin-Woo (Developer Edition)  ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+### 🎮 READY TO PARTY UP? 🎮
+
+<a href="mailto:contato@in100tiva.com">
+  <img src="https://img.shields.io/badge/SEND_MESSAGE-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**⭐ Star my repositories to increase my XP! ⭐**
+
+<br/>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:7c3aed&height=100&section=footer)
+
+</div>
