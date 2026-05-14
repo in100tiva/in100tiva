@@ -35,7 +35,7 @@
 ```typescript
 const developer = {
     name: "Luan Oliveira",
-    role: "Full Stack Developer",
+    role: "Tech Lead",
     brand: "@In100tiva",
     stack: ["React", "Next.js", "React Native", "TypeScript", "Node.js", "Bun", "Electron.js", "Elysia.js"],
     databases: ["Supabase", "PostgreSQL", "MySQL", "SQLite", "Neon", "Convex", "Firebase"],
