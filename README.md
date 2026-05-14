@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luan%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=51&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luan%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Tech%20Lead&descAlignY=51&descSize=20"/>
 
 <!-- Snake Animation -->
 <picture>
