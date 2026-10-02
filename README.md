@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luan%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Arquiteto%20de%20Software%20%26%20Tech%20Lead&descAlignY=51&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luan%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Tech%20Lead%20%7C%20Software%20Architecture%20%26%20Engineering&descAlignY=51&descSize=18"/>
 
 <!-- Snake Animation -->
 <picture>
@@ -35,7 +35,7 @@
 ```typescript
 const developer = {
     name: "Luan Oliveira",
-    role: "Arquiteto de Software & Tech Lead",
+    role: "Tech Lead | Software Architecture & Engineering",
     brand: "@In100tiva",
     stack: ["Go", "Rust", "Python", "TypeScript", "Node.js", "Docker", "Next.js"],
     databases: ["PostgreSQL", "Supabase", "Redis", "SQLite", "Neon", "Firebase"],
