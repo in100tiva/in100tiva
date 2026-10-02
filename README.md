@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luan%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Tech%20Lead%20%7C%20Software%20Architecture%20%26%20Engineering&descAlignY=51&descSize=18"/>
+<!-- Header Banner -->
+<img width="100%" src="./assets/header.svg" alt="Luan Oliveira - Tech Lead & Software Architect"/>
 
 <!-- Snake Animation -->
 <picture>
@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=50&lines=High-Performance+Distributed+Systems;Autonomous+AI+Agents+%26+RAG+Architectures;Building+Resilient+Mission-Critical+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=40&lines=High-Performance+Distributed+Systems;Autonomous+AI+Agents+%26+RAG+Architectures;Building+Resilient+Mission-Critical+Software)](https://git.io/typing-svg)
 
 <br/>
 
@@ -83,10 +83,5 @@ interface Profile {
 <div align="center">
 
 *"Clean architecture is not about following rules. It is about building systems that withstand change."*
-
-<br/>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
