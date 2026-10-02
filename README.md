@@ -35,12 +35,12 @@
 ```typescript
 const developer = {
     name: "Luan Oliveira",
-    role: "Tech Lead",
+    role: "Tech Lead & Software Engineer",
     brand: "@In100tiva",
-    stack: ["React", "Next.js", "React Native", "TypeScript", "Node.js", "Bun", "Electron.js", "Elysia.js"],
-    databases: ["Supabase", "PostgreSQL", "MySQL", "SQLite", "Neon", "Convex", "Firebase"],
-    currentProject: "EventPulse - Real-time event engagement platform",
-    passion: "Turning ideas into scalable solutions"
+    stack: ["Go", "Rust", "Python", "TypeScript", "Node.js", "Docker", "Next.js"],
+    databases: ["PostgreSQL", "Supabase", "Redis", "SQLite", "Neon", "Firebase"],
+    currentProject: "DeskcommCRM - Open-source AI sales OS with native agents & WhatsApp",
+    passion: "Building high-performance distributed systems & AI products"
 };
 ```
 
@@ -51,12 +51,14 @@ const developer = {
 <div align="center">
 
 #### Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Elysia](https://img.shields.io/badge/Elysia-000?style=flat-square&logo=elysia&logoColor=white)
@@ -100,9 +102,9 @@ const developer = {
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| **EventPulse** | Real-time event engagement platform | React, Convex, Clerk |
-| **Fitness App** | Workout module with drag-and-drop | React Native, Redux, Supabase |
-| **Medical RAG** | AI system for medical literature | Python, Upstash, LangChain |
+| **DeskcommCRM** | Open-source AI sales OS with native AI agents & WhatsApp | TypeScript, Go, WAHA, Multi-tenant |
+| **whitelist-proxy** | High-performance local HTTP/HTTPS proxy with rules engine | Go, Concurrency, Networking |
+| **Medical RAG** | AI system for medical literature & vector search | Python, Upstash, LangChain |
 
 </div>
 
