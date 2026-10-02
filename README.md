@@ -13,112 +13,80 @@
 <br/>
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+digital+experiences;One+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=50&lines=High-Performance+Distributed+Systems;Autonomous+AI+Agents+%26+RAG+Architectures;Building+Resilient+Mission-Critical+Software)](https://git.io/typing-svg)
+
+<br/>
 
 <!-- Social Links -->
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thecrowdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luanpdd)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@thecrowdev)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=in100tiva&color=58A6FF&style=flat-square&label=Profile+Views)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:projetoin100tiva@gmail.com)
 
 </div>
 
 ---
 
-### About
+### Architecture & Focus
 
 ```typescript
-const developer = {
-    name: "Luan Oliveira",
-    role: "Tech Lead | Software Architecture & Engineering",
-    brand: "@In100tiva",
-    stack: ["Go", "Rust", "Python", "TypeScript", "Node.js", "Docker", "Next.js"],
-    databases: ["PostgreSQL", "Supabase", "Redis", "SQLite", "Neon", "Firebase"],
-    currentProject: "DeskcommCRM - Open-source AI sales OS with native agents & WhatsApp",
-    passion: "Building high-performance distributed systems & AI products"
-};
+interface Profile {
+  role: "Tech Lead & Software Architect";
+  domains: [
+    "High-Performance Distributed Systems",
+    "Autonomous AI Agents & RAG Architecture",
+    "Multi-Tenant SaaS Infrastructure"
+  ];
+  coreLanguages: ["Go", "Rust", "Python", "TypeScript", "SQL"];
+  infrastructure: ["Docker", "Linux", "PostgreSQL", "pgvector", "Redis"];
+  flagshipProject: "DeskcommCRM - Open-Source AI Sales OS";
+}
 ```
 
 ---
 
-### Tech Stack
+### Core Technologies
 
 <div align="center">
 
-#### Languages & Frameworks
+#### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-000?style=flat-square&logo=elysia&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-#### Databases
+#### Systems & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
-
-#### Tools & Platforms
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-### GitHub Analytics
+### Featured Systems
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=in100tiva&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+| Project | Architecture & Scope | Core Stack |
+|:---|:---|:---|
+| [**DeskcommCRM**](https://github.com/in100tiva/DeskcommCRM) | Open-source AI sales OS — self-hosted multi-tenant CRM with native AI agents & WhatsApp | Go, TypeScript, PostgreSQL, WAHA |
+| [**whitelist-proxy**](https://github.com/in100tiva/whitelist-proxy) | High-throughput local HTTP/HTTPS proxy with dynamic traffic rules and web UI | Go, Concurrency, Networking |
+| [**openreply**](https://github.com/in100tiva/openreply) | Open-source conversational infrastructure alternative to ManyChat | TypeScript, Node.js, Webhooks |
+
 </div>
+
+---
+
+<div align="center">
+
+*"Clean architecture is not about following rules. It is about building systems that withstand change."*
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=in100tiva&theme=github_dark" width="100%"/>
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **DeskcommCRM** | Open-source AI sales OS with native AI agents & WhatsApp | TypeScript, Go, WAHA, Multi-tenant |
-| **whitelist-proxy** | High-performance local HTTP/HTTPS proxy with rules engine | Go, Concurrency, Networking |
-| **Medical RAG** | AI system for medical literature & vector search | Python, Upstash, LangChain |
-
-</div>
-
----
-
-<div align="center">
-
-*"Clean code is not written by following rules. It is written by developers who care."*
-
-<br/>
-
-**@In100tiva**
-
-</div>
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
