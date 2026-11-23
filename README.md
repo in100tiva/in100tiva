@@ -38,7 +38,7 @@ interface Profile {
   ];
   coreLanguages: ["Go", "Rust", "Python", "TypeScript", "SQL"];
   infrastructure: ["Docker", "Linux", "PostgreSQL", "pgvector", "Redis"];
-  flagshipProject: "DeskcommCRM - Open-Source AI Sales OS";
+  flagshipProject: "KeyHybrid — Zero-Knowledge AI Gateway";
 }
 ```
 
@@ -72,11 +72,21 @@ interface Profile {
 
 | Project | Architecture & Scope | Core Stack |
 |:---|:---|:---|
-| [**DeskcommCRM**](https://github.com/in100tiva/DeskcommCRM) | Open-source AI sales OS — self-hosted multi-tenant CRM with native AI agents & WhatsApp | Go, TypeScript, PostgreSQL, WAHA |
-| [**whitelist-proxy**](https://github.com/in100tiva/whitelist-proxy) | High-throughput local HTTP/HTTPS proxy with dynamic traffic rules and web UI | Go, Concurrency, Networking |
-| [**openreply**](https://github.com/in100tiva/openreply) | Open-source conversational infrastructure alternative to ManyChat | TypeScript, Node.js, Webhooks |
+| [**KeyHybrid**](https://github.com/in100tiva/KeyHybrid) | Zero-knowledge vault for AI provider keys + local OpenAI-compatible gateway: virtual tokens, AES-256-GCM at rest, multimodal proxy (`/v1/chat`, `/v1/audio`, `/v1/videos`) | Go, Rust, Tauri, Svelte |
+| [**Phone Webcam**](https://github.com/in100tiva/webcam) | Turns a phone into a system webcam over WiFi: WebSocket streaming, virtual camera driver, signed installers for Linux, Windows and Android | Electron, Node.js, FFmpeg |
+| [**whitelist-proxy**](https://github.com/in100tiva/whitelist-proxy) | Local HTTP/HTTPS proxy with allow/deny rules, live configuration and a web UI for non-technical operators | Go, concurrency, networking |
+| [**mvp-vale**](https://github.com/in100tiva/mvp-vale) | Mobile-first salary-advance management: employee requests, approval workflow and balance tracking | React, Vite |
 
 </div>
+
+Each repository documents setup, architecture decisions and trade-offs — not just a quickstart.
+
+---
+
+### Availability
+
+> Open to selected freelance engagements: backend architecture, AI integration (LLM, RAG, agents) and full-stack delivery.
+> Long-term partnerships welcome.
 
 ---
 
